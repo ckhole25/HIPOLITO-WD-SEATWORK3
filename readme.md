@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/ckhole25">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="" alt="" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork 3: Header and Footer Gallery</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This activity consists of 5 different animated and static header and footer styles
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=https://github.dev/ckhole25/WD-SW3)
 
 ---
 
@@ -57,13 +57,19 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This website is all about 5 different static and animated header and footer gallery
 
 Guiding Question:
-- What is the project
-- Whats the purpose
+- Seatwork 3: Header and Footer Gallery
+- to create a website containing 5 different static and animated header styles, as well as 5 different animated and static footer stylees
 - What are key components
+- 5 different static header styles
+- 5 different animated header styles
+- 5 different static footer styles
+- 5 different animated footer styles
 - What technology used and how it is used
+- HTML
+- CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -79,42 +85,43 @@ Guiding Question:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
-1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
-2. Do not rename any .html files; always use `index.html` as the filename.
+1. Always use WD- in the front of the Title of the Project for the Subject followed by your custom naming.
+2. Do not rename any .html files; always use index.html as the filename.
 3. Place Files in their respective folders.
 4. All file naming are in camel case.
    - Camel case is naming format where there is no white space in separation of each words, the first word is in all lower case while the succeding words first letter are in upper followed by lower cased letters.
    - ex.: buttonAnimatedStyle.css
-5. Use only `External CSS`.
+5. Use only External CSS.
 6. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
 7. File Structure to follow below.
 
-```
 WD-ProjectName
 └─ assets
-|   └─ css
-|   |   └─ style.css
-|   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ script.js
+| └─ css
+| | └─ style.css
+| └─ img
+| | └─ fileWith.jpeg/.jpg/.webp/.png
+| └─ js
+| └─ script.js
 └─ pages
-|  └─ pageName
-|     └─ assets
-|     |  └─ css
-|     |  |  └─ style.css
-|     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
-|     └─ index.html
+| └─ pageName
+| └─ assets
+| | └─ css
+| | | └─ style.css
+| | └─ img
+| | | └─ fileWith.jpeg/.jpg/.webp/.png
+| | └─ js
+| | └─ script.js
+| └─ index.html
 └─ index.html
 └─ readme.md
-```
 
 ## Resources
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Pinterest | For my background images | Pinterest.com |
+| Youtube tutorials | For helping me in some codes | Youtube.com |
+| Google | For the different animation styles | Google.com. |
+| Github | The template that i used for my repositories | https://github.com/zyx-0314/WD-Template-Project 
